@@ -21,7 +21,7 @@ Hi, I’m <strong>Syed Abdur Rahman Uddin</strong>, a passionate <strong>Full St
 I thrive on continuous learning and enjoy diving into diverse technologies and domains to broaden my skillset 💡.<br />
 Exploring new tools and frameworks excites me, especially when I can leverage them to craft solutions for real-world challenges ✨.<br />
 Currently, I’m focused on <strong>Web Development</strong> 🕸️ and actively building several innovative side projects.<br />
-I’m eager to contribute my skills and energy to a dynamic team and am open to full-time <strong>Developer</strong> opportunities 👨🏻‍💻.
+I'm open to full-time, developer roles. 👨🏻‍💻
 </div>
 
 <br><br>
