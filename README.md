@@ -24,44 +24,58 @@ I'm currently into Web Development 🕸️ and working on a few side projects. <
 I'm open to full-time, software engineer roles. 👨🏻‍💻 <br />
 </div>
 
+<br><br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>💼 Current Role</th>
+    <th>🔥 Passion</th>
+    <th>🤝 Open To</th>
+    <th>💬 Let's Talk</th>
+  </tr>
+  <tr>
+    <td align="center">Front End Developer at a <b>Product-Based International Company</b></td>
+    <td align="center">Building projects that empower <b>developers & daily users</b></td>
+    <td align="center">Exciting opportunities – email me below</td>
+    <td align="center">Anything tech-related, always happy to help</td>
+  </tr>
+</table>
+
 <br>
 
-**About me**
+<table>
+  <tr>
+    <th>🌎 Portfolio</th>
+    <th>📫 Email</th>
+    <th>🔗 LinkedIn</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.google.com/"><b>Visit Here</b></a></td>
+    <td align="center"><a href="mailto:rahmansyed862@gmail.com">rahmansyed862@gmail.com</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/syedabdurrahmanuddin/"><b>Connect</b></a></td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working at [Splunk](https://www.splunk.com/) as a Software Engineer (SWE-2);
-- 💼 I’m open to work - please drop me an email at the address below;
-- 💬 Ask me about anything, I am happy to help;
-- 🌎 Check out my portfolio [here](https://www.abdulahadsiddiqui.com/);
-- 📫 Reach out to me at [abdulahadsiddiqui011@gmail.com](mailto:abdulahadsiddiqui011@gmail.com);
-- 📝 Come, connect with me on [LinkedIn](https://www.linkedin.com/in/abdulahadsiddiqui11/);
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
-## 👨‍💻 About Me
-🛠️ I am currently working at a Product Based International Company
-💡 Passionate about **creating projects that help developers & daily users**  
-🎯 Currently working on: **World’s Best Resume Builder**, **NutriDecode**, **Developer Resource Hub**  
-🌱 Learning: **Advanced React.js, Node.js, Docker & Deployment**  
-
-🤝 Open to: Collaboration, freelance work, and open-source contributions  
-📍 Based in India, working with people worldwide  
-
----
-
-## 📌 Quick Status
-- 🔨 **In Dev Life**: NutriDecode · Resume Builder · HTML/CSS UI Templates  
-- 📚 **Always Learning**: React.js, Node.js, Docker, Deployment  
-- 💼 **Open To**: Collaborations, freelance projects, open-source work  
-- 🌐 **Portfolio & Contact**: [Your Portfolio Link] · [your@email.com]  
-
----
+<div align="center">
 
 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap" />
 </p>
 
+</div>
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div align="center">
 
 **Featured Projects**
 <p align="center">
@@ -74,10 +88,15 @@ I'm open to full-time, software engineer roles. 👨🏻‍💻 <br />
   <a href="LIVE_LINK"><img src="LIVE_LINK"><img src="https://github.com/user-attachments/assets/project-banner4.png" width="45%" alt="HTML/CSS UI Templates"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
 
+<br><br>
 
-**GitHub Analytics
+<div align="center">
+
+**GitHub Analytics**
+
+</div>
 
 <div align="center">
 <table>
@@ -97,20 +116,30 @@ I'm open to full-time, software engineer roles. 👨🏻‍💻 <br />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeetkotarya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
-### 🏆 GitHub Trophies
+<br>
+
+**🏆 GitHub Trophies**
+<br><br>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syedrahman24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+**📅 Contribution Heatmap**
+
+<br>
+
+[![Syed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedrahman24&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📅 Contribution Heatmap
-[![Syed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedrahman24&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<p align="center">
+<p align="right">
   <!-- Komarev Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=syedrahman24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="syedrahman24" />
   <!-- Followers -->
