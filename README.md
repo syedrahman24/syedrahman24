@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋, I'm Syed Abdur Rahman Uddin </h1>
+<h1 align="center"> Hey 👋, I'm Syed Rahman </h1>
 
 <p align="center">
 
