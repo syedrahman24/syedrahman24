@@ -114,8 +114,6 @@ I'm open to full-time, developer roles. 👨🏻‍💻
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeetkotarya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
 <br>
 
 **🏆 GitHub Trophies**
