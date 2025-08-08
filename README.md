@@ -75,20 +75,22 @@ I'm open to full-time, developer roles. 👨🏻‍💻
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!---
+
 <div align="center">
 
 **Featured Projects**
 <p align="center">
-  <a href="LIVE_LINK"><img src="https://github.com/user-attachments/assets/project-banner1.png" width="45%" alt="Resume Builder"/></a>
-  <a href="LIVE_LINK"><img src="https://github.com/user-attachments/assets/project-banner2.png" width="45%" alt="NutriDecode"/></a>
+  <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/pp1.png" width="45%" alt="Resume Builder"/>
+  <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/pp1.png" width="45%" alt="Resume Builder"/>
 </p>
 
 <p align="center">
-  <a href="LIVE_LINK"><img src="https://github.com/user-attachments/assets/project-banner3.png" width="45%" alt="Developer Resource Hub"/></a>
-  <a href="LIVE_LINK"><img src="LIVE_LINK"><img src="https://github.com/user-attachments/assets/project-banner4.png" width="45%" alt="HTML/CSS UI Templates"/></a>
+  <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/pp1.png" width="45%" alt="Resume Builder"/>
+  <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/pp1.png" width="45%" alt="Resume Builder"/>
 </p>
 
-</div>
+</div>--->
 
 <br><br>
 
