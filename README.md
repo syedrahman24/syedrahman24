@@ -1,7 +1,6 @@
-<!-- HERO WITH ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Syed+Rahman+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%7C+Node.js;Building+tools%2C+apps+%26+resources+for+developers;Creating+projects+that+help+people+worldwide" alt="Typing animation" />
-</div>
+<!-- HEADER -->
+<h1 align="center">Hey there 👋, I'm Syed Rahman</h1>
+<h3 align="center">🚀 Building top-tier developer resources, tools & projects — one repo at a time</h3>
 
 ---
 
