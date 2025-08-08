@@ -66,8 +66,7 @@ I'm open to full-time, developer roles. 👨🏻‍💻
 
 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,netlify,vercel,render,docker,webflow,python,java,mysql,next,typescript,graphql,redux,aws,kubernetes,flutter,linux" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,netlify,vercel,docker,webflow,python,java,,mysql,next,typescript,vscode,figma,tailwind,bootstrap,graphql,redux,aws,kubernetes,flutter,linux"/>
 </p>
 
 </div>
