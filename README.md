@@ -17,11 +17,11 @@
 </p>
 
 <div align="center">
-Hi there, I'm <strong>Abdul Ahad Siddiqui</strong>, a <strong>Software Engineer</strong> 🚀 from India. <br />
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <br />
-I love ❤️ to explore new technologies and leverage them to solve real-life problems ✨. <br />
-I'm currently into Web Development 🕸️ and working on a few side projects. <br />
-I'm open to full-time, software engineer roles. 👨🏻‍💻 <br />
+Hi, I’m <strong>Syed Abdur Rahman Uddin</strong>, a passionate <strong>Full Stack Developer</strong> 🚀 based in India.<br />
+I thrive on continuous learning and enjoy diving into diverse technologies and domains to broaden my skillset 💡.<br />
+Exploring new tools and frameworks excites me, especially when I can leverage them to craft solutions for real-world challenges ✨.<br />
+Currently, I’m focused on <strong>Web Development</strong> 🕸️ and actively building several innovative side projects.<br />
+I’m eager to contribute my skills and energy to a dynamic team and am open to full-time <strong>Developer</strong> opportunities 👨🏻‍💻.
 </div>
 
 <br><br>
