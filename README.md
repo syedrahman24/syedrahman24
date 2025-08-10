@@ -75,13 +75,13 @@ I'm open to full-time, developer roles. 👨🏻‍💻
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!---
+
 
 <div align="center">
 
 **Featured Projects**
 <p align="center">
-  <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/pp1.png" width="45%" alt="Resume Builder"/>
+  <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/bb.png" width="45%" alt="Resume Builder"/>
   <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/pp1.png" width="45%" alt="Resume Builder"/>
 </p>
 
@@ -90,7 +90,7 @@ I'm open to full-time, developer roles. 👨🏻‍💻
   <a href="LIVE_LINK"><img src="https://github.com/syedrahman24/syedrahman24/raw/main/src/assets/pp1.png" width="45%" alt="Resume Builder"/>
 </p>
 
-</div>--->
+</div>
 
 <br><br>
 
