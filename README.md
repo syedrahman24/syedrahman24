@@ -98,7 +98,7 @@ I'm open to full-time, developer roles. 👨🏻‍💻
 
 <br><br>
 
-<div align="center">
+<!-- <div align="center">
 
 **GitHub Analytics**
 
@@ -118,9 +118,9 @@ I'm open to full-time, developer roles. 👨🏻‍💻
 
 </td>
 </tr>
-</table>
+</table> -->
 
-<br>
+<!-- <br>
 
 **🏆 GitHub Trophies**
 <br><br>
@@ -138,12 +138,12 @@ I'm open to full-time, developer roles. 👨🏻‍💻
 
 [![Syed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedrahman24&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<p align="right">
+<p align="center">
   <!-- Komarev Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=syedrahman24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="syedrahman24" />
   <!-- Followers -->
