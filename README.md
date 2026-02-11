@@ -2,16 +2,16 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/abdulahadsiddiqui11/" target="_blank">
-  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  <a href="https://www.linkedin.com/in/syedabdurrahmanuddin/" target="_blank">
+  <img border="0" alt="Syed Abdur Rahman Uddin" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
 
-  <a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
+  <a href="mailto:rahmansyed862@gmail.com" target="_blank">
   <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
   </a>
   
-  <a href="https://www.abdulahadsiddiqui.com/" target="_blank">
-  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/null/internet--v1.png"/>
+  <a href="https://appflowlabs.com/" target="_blank">
+  <img border="0" alt="Syed Abdur Rahman Uddin" src="https://img.icons8.com/doodle/40/null/internet--v1.png"/>
   </a>
   
 </p>
